@@ -1,2 +1,2 @@
 Ini contoh dari membuat teks di dalam github.
-Ini contoh cara menambahkan deskripsi.
+Ini contoh menghapus dan menambahkan deskripsi
