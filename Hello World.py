@@ -1,2 +1,4 @@
-print ( "Hello World" )
-print ( "Selamat Mencoba ")
+print("Hello World")
+print("Selamat Mencoba ")
+print('Hallo')
+print('namabah')
